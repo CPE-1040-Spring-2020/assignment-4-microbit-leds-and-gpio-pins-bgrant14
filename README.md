@@ -101,4 +101,6 @@ _Resistance:_ R = 2.718V/(7.168*10^-3)A = 379.19Ω
 
 ## Demo videos
 
-_TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+[Simple LED Circuit](https://i.imgur.com/1ZL6xIa.mp4)
+
+[Microbit Breakout Board](https://i.imgur.com/UqVIMYQ.mp4)
