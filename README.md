@@ -104,3 +104,7 @@ _Resistance:_ R = 2.718V/(7.168*10^-3)A = 379.19Ω
 [Simple LED Circuit](https://i.imgur.com/1ZL6xIa.mp4)
 
 [Microbit Breakout Board](https://i.imgur.com/UqVIMYQ.mp4)
+
+[With Screen Enabled](https://i.imgur.com/Po2Pj1u.mp4)
+
+[Rain Screensaver Extension](https://i.imgur.com/UqVIMYQ.mp4)
